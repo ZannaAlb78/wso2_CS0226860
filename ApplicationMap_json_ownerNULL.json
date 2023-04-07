@@ -1,0 +1,192 @@
+[
+   {
+      "key":"3695F85ACEA107D6E05338073F0A0C50",
+      "value":{
+         "applicationId":"3695F85ACEA107D6E05338073F0A0C50",
+         "name":"DefaultApplication",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":37,
+         "attributes":{
+            
+         },
+         "owner":null,
+         "deleting":false
+      }
+   },
+   {
+      "key":"3695F85ACEC407D6E05338073F0A0C50",
+      "value":{
+         "applicationId":"3695F85ACEC407D6E05338073F0A0C50",
+         "name":"Prova applicazione",
+         "throttlingPolicy":"Unlimited",
+         "description":"Prova di creazione di un'applicazione",
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":4,
+         "attributes":{
+            
+         },
+         "owner":null,
+         "deleting":false
+      }
+   },
+   {
+      "key":"46abee85-d32c-4752-a35e-9e372b282158",
+      "value":{
+         "applicationId":"46abee85-d32c-4752-a35e-9e372b282158",
+         "name":"MovedApp",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":1,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"aaa2a96b-e433-409d-ac8e-4630242d2378",
+      "value":{
+         "applicationId":"aaa2a96b-e433-409d-ac8e-4630242d2378",
+         "name":"Auriga",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":2,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"d109c23a-36d7-48c1-aa0c-18086200907d",
+      "value":{
+         "applicationId":"d109c23a-36d7-48c1-aa0c-18086200907d",
+         "name":"INPSInvalidita",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":0,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"8748fc24-7bbd-423f-84ee-5a289a90a1f3",
+      "value":{
+         "applicationId":"8748fc24-7bbd-423f-84ee-5a289a90a1f3",
+         "name":"FormRichiesteCambiIndirizzo",
+         "throttlingPolicy":"Large",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":0,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"6a327c30-2e2d-4cb0-a6a4-07a5a94a54b7",
+      "value":{
+         "applicationId":"6a327c30-2e2d-4cb0-a6a4-07a5a94a54b7",
+         "name":"AppCittadino",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":1,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"1ef39391-9ed3-4f09-9172-33f45bc6983c",
+      "value":{
+         "applicationId":"1ef39391-9ed3-4f09-9172-33f45bc6983c",
+         "name":"provaSuap",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":2,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"eac2e12a-e2be-4c34-ba03-c4d38b7bded3",
+      "value":{
+         "applicationId":"eac2e12a-e2be-4c34-ba03-c4d38b7bded3",
+         "name":"LispaProxy",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":1,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   },
+   {
+      "key":"89c8e1a2-5a38-4ea3-80af-58fe3865be17",
+      "value":{
+         "applicationId":"89c8e1a2-5a38-4ea3-80af-58fe3865be17",
+         "name":"GestioneCode",
+         "throttlingPolicy":"Unlimited",
+         "description":null,
+         "status":"APPROVED",
+         "groups":[
+            
+         ],
+         "subscriptionCount":2,
+         "attributes":{
+            
+         },
+         "owner":"admin",
+         "deleting":false
+      }
+   }
+]
